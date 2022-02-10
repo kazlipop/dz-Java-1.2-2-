@@ -23,4 +23,4 @@ public class Main {
 * Windows 10 Pro x64
 * Java SE 11.0.1
 
-ссылка на исходники проекта на GitHub;
+ссылка на фамл с кодом https://github.com/kazlipop/dz-Java-1.2-2-/blob/main/src/Main.java
