@@ -1,8 +1,8 @@
 public class Main {
-    public static void main(String[] args) {
-        int price = 2_000_000_000;
-        int count = 500_000_000;
-        int total = price - count;
-        System.out.println(total);
-    }
+  public static void main(String[] args) {
+    double regularBonus = 0.3;
+    double specialBonus = 0.6;
+    double totalBonus = regularBonus + specialBonus;
+    System.out.println(totalBonus);
+  }
 }
